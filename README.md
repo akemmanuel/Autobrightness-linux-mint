@@ -10,7 +10,7 @@ Linuxmint cinnamon
 ### Install
 Run
 ```
-pip install opencv-python
+pip3 install opencv-python
 ```
 ### Run the code
 ```
