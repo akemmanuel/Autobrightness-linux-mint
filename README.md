@@ -1,5 +1,5 @@
 
-# Nonesense
+# Autobrightness
 
 A python script that uses the camera to set how bright the screen should be
 
